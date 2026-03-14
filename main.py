@@ -19,7 +19,7 @@ turn_count=person.turn_count
 #[monster,check,task]
 events = [0, 1, 2]
 #important for the random selector for gifts
-weights = [20, 50, 30]
+weights = [30, 40, 30]
 
 while game_on:
     #---------------A blinking mesg for what u have
